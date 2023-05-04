@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-gavt",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "502bad00-10a3-4e00-851e-735f047f3dd7",
+		"tenantId": "84f2266d-61ca-432e-aa42-2185b3e62c61"
+	}
+}
