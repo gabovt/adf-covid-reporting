@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-gavt",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0279fe8a-a61b-47b8-89fa-654df718a223",
+		"tenantId": "84f2266d-61ca-432e-aa42-2185b3e62c61"
+	}
+}
