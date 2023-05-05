@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://covidreportingsa0311.dfs.core.windows.net/",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDExMEYzMkEyLTBEQjAtNDc4Qi04ODQ0LUEzOTU5MEUwNDdCRF9hMmRmNmM2Ny1hOGFhLTRhY2EtODBjNi0wZjdiOWQ2YTAzMGEiDQp9"
+			"url": "https://covidreportingdl0311.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDExMEYzMkEyLTBEQjAtNDc4Qi04ODQ0LUEzOTU5MEUwNDdCRF8yYjdkYzkzZi05ZDJjLTQ1YzUtYWI1Yi05N2YwMmRiN2UxMWMiDQp9"
 		}
 	}
 }
