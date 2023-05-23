@@ -1,5 +1,10 @@
 {
 	"name": "covid-reporting-adf-gavt",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
 	"location": "centralus",
 	"identity": {
 		"type": "SystemAssigned",
